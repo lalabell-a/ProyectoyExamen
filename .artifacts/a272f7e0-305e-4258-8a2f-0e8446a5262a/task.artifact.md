@@ -1,0 +1,4 @@
+- [x] Implement robust Polyline decoder in `RoutingLogic.kt`
+- [x] Update OSRM request to use `geometries=polyline` for maximum precision
+- [x] Refactor `RepartidorScreen.kt` for forced map invalidation on route updates
+- [x] Verify build and road-following accuracy

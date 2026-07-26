@@ -1,0 +1,6 @@
+- [x] Update SDK versions in `libs.versions.toml`
+- [x] Update AGP version in `libs.versions.toml`
+- [x] Update Gradle version in `gradle-wrapper.properties`
+- [x] Run Gradle Sync
+- [x] Verify build passes for `:app-repartidor`
+- [x] Create walkthrough
